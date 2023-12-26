@@ -3,5 +3,5 @@ EGZUMER V0.21 QRP
 
 # Installation
 
-Téléchargez le binaire.
+Téléchargez le binaire `firmware.packed.bin`.
 Utiliser le flasheur online dispo sur : https://egzumer.github.io/uvtools/
