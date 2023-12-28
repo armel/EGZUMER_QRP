@@ -3,7 +3,7 @@ EGZUMER V0.21 QRP
 
 # Installation
 
-Utiliser le [flasheur](https://egzumer.github.io/uvtools/)
+Utiliser le [flasheur](https://egzumer.github.io/uvtools/).
 
 # Ventilation des puissances en fonction des firmwares
 
@@ -14,11 +14,11 @@ Utiliser le [flasheur](https://egzumer.github.io/uvtools/)
 | firmware.0.5_2.0_4.0 | EGZUMER V0.21 + F4HWN | ~500mW | ~2W | ~4W |
 | firmware.1.0_2.0_4.0 | EGZUMER V0.21 + F4HWN | ~1W | ~2W | ~4W |
 
-# Videos sur Youtube
+# Vidéos sur Youtube
 
-[Partie 1](https://www.youtube.com/watch?v=aueOkAnnEcM)
+[Partie 1](https://www.youtube.com/watch?v=aueOkAnnEcM).
 
-[Partie 2](https://www.youtube.com/watch?v=INs5kHHVxII)
+[Partie 2](https://www.youtube.com/watch?v=INs5kHHVxII).
 
 # Informations complémentaires
 
