@@ -32,4 +32,4 @@ Dans les videos, j'utilise un simple SWRMètre Diamond. Je me suis amusé à ref
 
 J'aurais tendance à penser que le TinySA Ultra donne des résultats plus précis. Mais globalement, à 100mW ~ 200mW pret, les mesures sont similiares à celles effectuées à l'aide du SWRMètre Diamond (modulo les erreurs de mesures inévitables, les pertes d'insertion, etc.). 
 
-Gardez toujours en tête que la métrologie (la science des mesures) est un art et que l'outil de mesures idéal n'existe pas ! Et je n'ai pas la prétention d'en maitriser toutes les subtilités. Je tente juste de faire au mieux en étant le plus méticuleux possible. 
+Gardez toujours en tête que la __métrologie (la science des mesures) est un art et que l'outil de mesures idéal n'existe pas__ ! Et je n'ai pas la prétention d'en maitriser toutes les subtilités. Je tente juste de faire au mieux en étant le plus méticuleux possible. 
