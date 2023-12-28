@@ -30,6 +30,6 @@ Dans les videos, j'utilise un simple SWRMètre Diamond. Je me suis amusé à ref
 | firmware.0.5_2.0_4.0 | EGZUMER V0.21 + F4HWN | ~400mW | ~1.7W | ~4.3W |
 | firmware.1.0_2.0_4.0 | EGZUMER V0.21 + F4HWN | ~750mW | ~1.7W | ~4.3W |
 
-J'aurais tendance à penser que le TinySA Ultra donne des résultats plus précis. Mais globalement, à 100mW ~ 200mW pret, les mesures sont similiares à celles effectuées à l'aide du SWRMètre Diamond (modulo les erreurs de mesures inévitables, les pertes d'insertion, etc.). 
+J'aurais tendance à penser que le TinySA Ultra donne des résultats plus précis. Mais globalement, à 100mW ~ 200mW pret, les mesures sont similaires à celles effectuées à l'aide du SWRMètre Diamond (modulo les erreurs de mesures inévitables, les pertes d'insertion, etc.). 
 
 Gardez toujours en tête que la __métrologie (la science des mesures) est un art et que l'outil de mesures idéal n'existe pas__ ! Et je n'ai pas la prétention d'en maitriser toutes les subtilités. Je tente juste de faire au mieux en étant le plus méticuleux possible. 
