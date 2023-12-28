@@ -3,7 +3,7 @@ EGZUMER V0.21 QRP
 
 # Installation
 
-Utiliser le [flasheur](https://egzumer.github.io/uvtools/) en ligne.
+Cloner le repository ou télécharger le ou les firmwares qui vous intéressent ('download raw file'). Utiliser le [flasheur](https://egzumer.github.io/uvtools/) en ligne.
 
 # Ventilation des puissances en fonction des firmwares
 
